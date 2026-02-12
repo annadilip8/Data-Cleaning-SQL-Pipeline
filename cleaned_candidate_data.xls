@@ -1,0 +1,7 @@
+candidate_id,name,email,phone,submission_date,score,phone_valid
+101,Rohan Sharma,rohan@gmail.com,9876543210.0,2026-10-02,85,False
+102,Anjali Mehta,anjali@gmail.com,9876543210.0,,90,False
+103,Unknown,rahul@gmail.com,9999999999.0,2026-12-02,88,False
+104,Priya Singh,priya@gmail.com,Not Provided,,91,False
+105,Rohan Sharma,rohan@gmail.com,9876543210.0,2026-10-02,85,False
+106,Arjun Verma,arjun@gmail.com,8888888888.0,2026-01-01,92,False
